@@ -1,10 +1,10 @@
 {
-    "family": "task-2",
+    "family": "qujssgf",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "547541681603.dkr.ecr.ap-southeast-1.amazonaws.com/zumvqog:latest",
+            "image": "public.ecr.aws/r8a6k2c4/dvaawdw:latest",
             "command": [
             ]
         }
