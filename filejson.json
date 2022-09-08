@@ -1,10 +1,10 @@
 {
-    "family": "bgovwaq",
+    "family": "yowiehx",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/p1c2r2x7/bgovwaq:latest",
+            "image": "public.ecr.aws/t8k0u1r9/yowiehx:latest",
             "command": [
             ]
         }
