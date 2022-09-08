@@ -1,10 +1,10 @@
 {
-    "family": "steeots",
+    "family": "atubtts",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/p9x2g1r1/steeots:latest",
+            "image": "public.ecr.aws/z0y7d0e9/atubtts:latest",
             "command": [
             ]
         }
