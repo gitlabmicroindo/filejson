@@ -1,10 +1,10 @@
 {
-    "family": "kxbiyas",
+    "family": "fnwieyv",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/p8b8c0z4/kxbiyas:latest",
+            "image": "public.ecr.aws/b3v9b3g6/fnwieyv:latest",
             "command": [
             ]
         }
