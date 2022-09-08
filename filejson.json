@@ -1,10 +1,10 @@
 {
-    "family": "zxtiipl",
+    "family": "tdpiwvq",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "960982535551.dkr.ecr.ap-northeast-1.amazonaws.com/zxtiipl:latest",
+            "image": "251194812251.dkr.ecr.us-west-2.amazonaws.com/tdpiwvq:latest",
             "command": [
             ]
         }
