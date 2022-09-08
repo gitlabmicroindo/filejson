@@ -1,10 +1,10 @@
 {
-    "family": "dgxzopp",
+    "family": "zrgvlli",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "#EANF#:latest",
+            "image": "public.ecr.aws/n9h3a9l9/zrgvlli:latest",
             "command": [
             ]
         }
