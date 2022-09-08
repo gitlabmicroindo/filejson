@@ -1,10 +1,10 @@
 {
-    "family": "nkuiibz",
+    "family": "xkqgdpd",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/r3i4m7y3/nkuiibz:latest",
+            "image": "public.ecr.aws/f4w1w1i1/xkqgdpd:latest",
             "command": [
             ]
         }
