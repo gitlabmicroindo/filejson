@@ -1,10 +1,10 @@
 {
-    "family": "jvcxvwp",
+    "family": "dgxzopp",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/y1d5u2b4/jvcxvwp:latest",
+            "image": "#EANF#:latest",
             "command": [
             ]
         }
