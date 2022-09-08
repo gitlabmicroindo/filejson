@@ -1,10 +1,10 @@
 {
-    "family": "azlepbw",
+    "family": "qvwroxo",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/u5u1s0z5/azlepbw:latest",
+            "image": "#EANF#:latest",
             "command": [
             ]
         }
