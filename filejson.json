@@ -1,10 +1,10 @@
 {
-    "family": "fmpiwuf",
+    "family": "eahnyvs",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/q7g6y4f8/fmpiwuf:latest",
+            "image": "public.ecr.aws/h6w1i6u9/eahnyvs:latest",
             "command": [
             ]
         }
