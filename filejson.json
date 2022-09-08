@@ -1,10 +1,10 @@
 {
-    "family": "yutwtem",
+    "family": "uhlqfbp",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/t9q9y6g5/yutwtem:latest",
+            "image": "public.ecr.aws/f0w1i2x5/uhlqfbp:latest",
             "command": [
             ]
         }
