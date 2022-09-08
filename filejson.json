@@ -1,10 +1,10 @@
 {
-    "family": "uukkkks",
+    "family": "yedritd",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/r5r3b3p7/uukkkks:latest",
+            "image": "public.ecr.aws/y9l2o7w2/yedritd:latest",
             "command": [
             ]
         }
