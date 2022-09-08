@@ -1,10 +1,10 @@
 {
-    "family": "xkqgdpd",
+    "family": "ccahssu",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/f4w1w1i1/xkqgdpd:latest",
+            "image": "public.ecr.aws/j1s7c4u4/ccahssu:latest",
             "command": [
             ]
         }
