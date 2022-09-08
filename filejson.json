@@ -1,10 +1,10 @@
 {
-    "family": "qujssgf",
+    "family": "steeots",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/r8a6k2c4/dvaawdw:latest",
+            "image": "public.ecr.aws/p9x2g1r1/steeots:latest",
             "command": [
             ]
         }
