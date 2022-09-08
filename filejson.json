@@ -1,10 +1,10 @@
 {
-    "family": "zrgvlli",
+    "family": "iaclzsg",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/n9h3a9l9/zrgvlli:latest",
+            "image": "public.ecr.aws/e8f2u8q1/iaclzsg:latest",
             "command": [
             ]
         }
