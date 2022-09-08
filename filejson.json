@@ -1,10 +1,10 @@
 {
-    "family": "xxhulex",
+    "family": "jjveikf",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/n5e7j9e0/xxhulex:latest",
+            "image": "public.ecr.aws/j9o8a1s3/jjveikf:latest",
             "command": [
             ]
         }
