@@ -1,10 +1,10 @@
 {
-    "family": "vlesxsl",
+    "family": "pevlgjj",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/c9u2v9v7/vlesxsl:latest",
+            "image": "#EANF#:latest",
             "command": [
             ]
         }
