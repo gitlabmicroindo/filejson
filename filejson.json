@@ -1,10 +1,10 @@
 {
-    "family": "fnwieyv",
+    "family": "nkuiibz",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/b3v9b3g6/fnwieyv:latest",
+            "image": "public.ecr.aws/r3i4m7y3/nkuiibz:latest",
             "command": [
             ]
         }
