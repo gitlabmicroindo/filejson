@@ -1,10 +1,10 @@
 {
-    "family": "bfmzyzg",
+    "family": "dnwssac",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/b3i4o3q6/bfmzyzg:latest",
+            "image": "public.ecr.aws/a6y2i1d6/dnwssac:latest",
             "command": [
             ]
         }
