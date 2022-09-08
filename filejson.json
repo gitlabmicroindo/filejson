@@ -1,10 +1,10 @@
 {
-    "family": "ngrpqrn",
+    "family": "xavpdqi",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/n1i1h6b1/ngrpqrn:latest",
+            "image": "public.ecr.aws/q9i3e7j1/xavpdqi:latest",
             "command": [
             ]
         }
