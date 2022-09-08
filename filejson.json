@@ -1,10 +1,10 @@
 {
-    "family": "qsuhrjy",
+    "family": "pzelomy",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/z7t1e6t8/qsuhrjy:latest",
+            "image": "public.ecr.aws/k5h7a8e4/pzelomy:latest",
             "command": [
             ]
         }
