@@ -1,10 +1,10 @@
 {
-    "family": "prufmil",
+    "family": "jvcxvwp",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "#EANF#:latest",
+            "image": "public.ecr.aws/y1d5u2b4/jvcxvwp:latest",
             "command": [
             ]
         }
