@@ -1,10 +1,10 @@
 {
-    "family": "zjemgpt",
+    "family": "rfmvfjz",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/c3m3y4y6/zjemgpt:latest",
+            "image": "public.ecr.aws/h7y8h7i9/rfmvfjz:latest",
             "command": [
             ]
         }
