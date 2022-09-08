@@ -1,10 +1,10 @@
 {
-    "family": "prnfzkl",
+    "family": "kljppli",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/s3g8n7v3/prnfzkl:latest",
+            "image": "#EANF#:latest",
             "command": [
             ]
         }
