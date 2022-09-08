@@ -1,10 +1,10 @@
 {
-    "family": "yedritd",
+    "family": "rsjppfm",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/y9l2o7w2/yedritd:latest",
+            "image": "public.ecr.aws/u2d6u4s8/rsjppfm:latest",
             "command": [
             ]
         }
