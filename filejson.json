@@ -4,7 +4,7 @@
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "proindo/dabue817",
+            "image": "undefined.dkr.ecr.undefined.amazonaws.com/undefined:latest",
             "command": [
             ]
         }
@@ -15,4 +15,3 @@
     "cpu": "4096",
     "memory": "9216"
 }
-asasa
