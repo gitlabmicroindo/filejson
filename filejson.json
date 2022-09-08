@@ -1,10 +1,10 @@
 {
-    "family": "tdpiwvq",
+    "family": "ieidvwk",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "251194812251.dkr.ecr.us-west-2.amazonaws.com/tdpiwvq:latest",
+            "image": "547541681603.dkr.ecr.us-east-1.amazonaws.com/ieidvwk:latest",
             "command": [
             ]
         }
