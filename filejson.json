@@ -1,10 +1,10 @@
 {
-    "family": "rfmvfjz",
+    "family": "prufmil",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/h7y8h7i9/rfmvfjz:latest",
+            "image": "#EANF#:latest",
             "command": [
             ]
         }
