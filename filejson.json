@@ -1,10 +1,10 @@
 {
-    "family": "qvwroxo",
+    "family": "zusepvu",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "#EANF#:latest",
+            "image": "public.ecr.aws/q5a3e4l6/zusepvu:latest",
             "command": [
             ]
         }
