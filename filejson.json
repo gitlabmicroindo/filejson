@@ -1,10 +1,10 @@
 {
-    "family": "jyycdrx",
+    "family": "cfnqoah",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "#EANF#:latest",
+            "image": "public.ecr.aws/f1o5n9x6/cfnqoah:latest",
             "command": [
             ]
         }
