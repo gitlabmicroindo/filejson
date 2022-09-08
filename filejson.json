@@ -1,10 +1,10 @@
 {
-    "family": "cfnqoah",
+    "family": "yutwtem",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/f1o5n9x6/cfnqoah:latest",
+            "image": "public.ecr.aws/t9q9y6g5/yutwtem:latest",
             "command": [
             ]
         }
