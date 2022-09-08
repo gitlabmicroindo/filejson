@@ -1,10 +1,10 @@
 {
-    "family": "eahnyvs",
+    "family": "bgovwaq",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/h6w1i6u9/eahnyvs:latest",
+            "image": "public.ecr.aws/p1c2r2x7/bgovwaq:latest",
             "command": [
             ]
         }
