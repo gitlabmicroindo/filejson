@@ -1,10 +1,10 @@
 {
-    "family": "pxbxnke",
+    "family": "cxecqyt",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/l2e6w1d0/pxbxnke:latest",
+            "image": "#EANF#:latest",
             "command": [
             ]
         }
