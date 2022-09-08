@@ -1,10 +1,10 @@
 {
-    "family": "fkxrrgt",
+    "family": "ihmwrmu",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/p3j1t1v5/fkxrrgt:latest",
+            "image": "#EANF#:latest",
             "command": [
             ]
         }
