@@ -1,10 +1,10 @@
 {
-    "family": "urzprhy",
+    "family": "rpaqjkn",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/o0f1k3c6/urzprhy:latest",
+            "image": "public.ecr.aws/j8y9c4z5/rpaqjkn:latest",
             "command": [
             ]
         }
