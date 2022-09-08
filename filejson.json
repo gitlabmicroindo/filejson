@@ -1,0 +1,17 @@
+{
+    "family": "task-2",
+    "networkMode": "awsvpc",
+    "containerDefinitions": [
+        {
+            "name": "fargate-app",
+            "image": "proindo/dabue817",
+            "command": [
+            ]
+        }
+    ],
+    "requiresCompatibilities": [
+        "FARGATE"
+    ],
+    "cpu": "4096",
+    "memory": "9216"
+}
