@@ -1,10 +1,10 @@
 {
-    "family": "yowiehx",
+    "family": "pxbxnke",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/t8k0u1r9/yowiehx:latest",
+            "image": "public.ecr.aws/l2e6w1d0/pxbxnke:latest",
             "command": [
             ]
         }
