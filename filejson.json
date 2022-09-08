@@ -1,10 +1,10 @@
 {
-    "family": "ccahssu",
+    "family": "jyycdrx",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/j1s7c4u4/ccahssu:latest",
+            "image": "#EANF#:latest",
             "command": [
             ]
         }
