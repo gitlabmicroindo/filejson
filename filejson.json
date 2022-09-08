@@ -1,10 +1,10 @@
 {
-    "family": "zusepvu",
+    "family": "fmpiwuf",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "public.ecr.aws/q5a3e4l6/zusepvu:latest",
+            "image": "public.ecr.aws/q7g6y4f8/fmpiwuf:latest",
             "command": [
             ]
         }
