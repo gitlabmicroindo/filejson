@@ -1,10 +1,10 @@
 {
-    "family": "task-2",
+    "family": "buyyafw",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "fargate-app",
-            "image": "undefined.dkr.ecr.undefined.amazonaws.com/undefined:latest",
+            "image": "770868444592.dkr.ecr.ap-southeast-1.amazonaws.com/buyyafw:latest",
             "command": [
             ]
         }
